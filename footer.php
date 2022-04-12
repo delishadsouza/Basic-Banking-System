@@ -6,7 +6,7 @@
 
 
 <footer>
-    <div class=" max-width text-white text-center" style="margin-bottom:0">
+    <div class=" max-width  text-black text-center" style="margin-bottom:0">
     <p>© 2022 Made by Delisha Dsouza </p>
     <a href="https://www.thesparksfoundationsingapore.org/" class="text-dark">The Sparks Foundation</a>
     </div>
